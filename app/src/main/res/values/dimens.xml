@@ -1,0 +1,12 @@
+<resources>
+    <!--DP Dimensions-->
+    <dimen name="twelve_dp">12dp</dimen>
+    <dimen name="ten_dp">10dp</dimen>
+    <dimen name="sixteen_dp">16dp</dimen>
+    <dimen name="fifty_dp">50dp</dimen>
+
+    <!--Text Dimensions-->
+    <dimen name="text_size_small">13sp</dimen>
+    <dimen name="text_size_normal">16sp</dimen>
+    <dimen name="text_size_large">17sp</dimen>
+</resources>

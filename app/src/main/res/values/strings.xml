@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">League</string>
+    <string name="database">LeagueDatabase</string>
+    <string name="toolbar_title">Posts</string>
+</resources>

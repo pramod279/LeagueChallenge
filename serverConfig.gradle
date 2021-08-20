@@ -1,0 +1,10 @@
+/**
+ * This Gradle Contains The Server Configurations & URLs
+ */
+def server_config = [:]
+
+/**
+ * League Challenge Server Configuration
+ */
+server_config.league_host_url = "\"https://engineering.league.dev/challenge/api/\""
+ext.server_config = server_config
