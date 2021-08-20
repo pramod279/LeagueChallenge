@@ -4,7 +4,7 @@ This repository contains the League Challenge Android app.<br>
 
 ## League Challenge APK
 
-- [Download Challenge APK]()
+- [Download Challenge APK](https://github.com/pramod279/LeagueChallenge/blob/main/League%20-%20v1.0.apk)
 
 ## System Requirements
 
@@ -46,7 +46,7 @@ This repository contains the League Challenge Android app.<br>
 
 ### Demo Video
 
-
+https://user-images.githubusercontent.com/16115553/130184502-109f45bb-1cfd-4bc0-8616-e39f250be15a.mp4
 
 ### Developed By
 
